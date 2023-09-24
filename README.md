@@ -1,24 +1,21 @@
 # better-canvas
-## Usable and customizable widgets to display course information from canvas.  Works with widgy.
-### PLEASE STAR THIS REPO
 
+## Usable and customizable widgets to display course information from Canvas. Works with Widgy.
 
+**PLEASE STAR THIS REPO**
 
+![iPad Example](/images/betterCanvasIpadExample.jpg)
 
+Above is an example from my iPad using the `assignmentsQR.JPG` in Widgy.
 
-<img src="/images/betterCanvasIpadExample.jpg" width=700px>
+Scan the below QR code in Widgy for this widget.
 
-<p>Above is an example from my ipad using the assignmentsQR.JPG in widgy.
+![Assignments QR Code](/images/assignmentsQR.JPG)
 
-Scan the below QR code in widgy for this widget.</p>
+![iPhone Example](/images/betterCanvasExample.jpg)
 
-<img src="/images/assignmentsQR.JPG" width=350px>
+Above is my home screen on my iPhone using the `allGradesQR.JPG` in Widgy.
 
+Scan the below QR code in Widgy for this widget.
 
-<img src="/images/betterCanvasExample.jpg" width=350px>
-
-<p>Above is my homescreen on my iphone using the allGradesQR.JPG in widgy.
-
-Scan the below QR code in widgy for this widget.</p>
-
-<img src="/images/allGradesQR.JPG" width=350px>
+![All Grades QR Code](/images/allGradesQR.JPG)

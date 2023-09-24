@@ -1,2 +1,2 @@
 # better-canvas
-![Screenshot](/images/betterCanvasExample.jpg)
+![Example of how I use better canvas](/images/betterCanvasExample.jpg)

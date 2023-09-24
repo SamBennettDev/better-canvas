@@ -25,10 +25,10 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="/images/assignmentsQR.JPG">
+      <img src="/images/assignmentsQR.JPG" width=40%>
     </td>
     <td align="center">
-      <img src="/images/allGradesQR.JPG">
+      <img src="/images/allGradesQR.JPG" width=40%>
     </td>
   </tr>
 </table>

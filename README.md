@@ -8,17 +8,17 @@
 
 <img src="/images/betterCanvasIpadExample.jpg" width=700px>
 
-<p>Above is an example from my ipad using the assignmentsQR.JPG in widgy.
+<p>Above is an example from my ipad using the assignmentsQR.JPG in widgy.</p>
 
-Scan the below QR code in widgy for this widget.</p>
+**Scan the below QR code in widgy for this widget.**
 
 <img src="/images/assignmentsQR.JPG" width=350px>
 
 
 <img src="/images/betterCanvasExample.jpg" width=350px>
 
-<p>Above is my homescreen on my iphone using the allGradesQR.JPG in widgy.
+<p>Above is my homescreen on my iphone using the allGradesQR.JPG in widgy.</p>
 
-Scan the below QR code in widgy for this widget.</p>
+**Scan the below QR code in widgy for this widget.**
 
 <img src="/images/allGradesQR.JPG" width=350px>

@@ -19,6 +19,4 @@ Scan the below QR code in widgy for this widget.
 
 <p>Above is my homescreen on my iphone using the allGradesQR.JPG in widgy.</p>
 
-Scan the below QR code in widgy for this widget.
-
-<img src="/images/allGradesQR.JPG" width=350px>
+Scan the below QR code in widgy for this widget.<img src="/images/allGradesQR.JPG" width=350px>

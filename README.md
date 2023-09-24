@@ -5,6 +5,7 @@
 Above is an example from my ipad using the assignmentsQR.JPG in widgy.
 
 Scan the below QR code in widgy for this widget.
+
 <img src="/images/assignmentsQR.JPG" width=350px>
 
 
@@ -13,4 +14,5 @@ Scan the below QR code in widgy for this widget.
 Above is my homescreen on my iphone using the allGradesQR.JPG in widgy.
 
 Scan the below QR code in widgy for this widget.
+
 <img src="/images/allGradesQR.JPG" width=350px>

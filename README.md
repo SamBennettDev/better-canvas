@@ -1,29 +1,22 @@
 # better-canvas
-## Usable and customizable widgets to display course information from canvas.  Works with widgy.
+
+## Usable and customizable widgets to display course information from Canvas. Works with Widgy.
+
 **PLEASE STAR THIS REPO**
 
-
-
-
-<div style="text-align: center;">
-<img src="/images/betterCanvasIpadExample.jpg" width=700px>
-</div>
-
-<p>Above is an example from my ipad using the assignmentsQR.JPG in widgy.</p>
-
-Scan the below QR code in widgy for this widget.
-<div style="text-align: center;">
-<img src="/images/assignmentsQR.JPG" width=350px>
-</div>
-
-<div style="text-align: center;">
-<img src="/images/betterCanvasExample.jpg" width=350px>
-</div>
-
-<p>Above is my homescreen on my iphone using the allGradesQR.JPG in widgy.</p>
-
-Scan the below QR code in widgy for this widget.
-
-<div align="align">
-<img src="/images/allGradesQR.JPG" width=350px>
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="/images/betterCanvasIpadExample.jpg" width="200px">
+      <p>Above is an example from my iPad using the `assignmentsQR.JPG` in Widgy.</p>
+      <p>Scan the below QR code in Widgy for this widget.</p>
+      <img src="/images/assignmentsQR.JPG" width="200px">
+    </td>
+    <td align="center">
+      <img src="/images/betterCanvasExample.jpg" width="200px">
+      <p>Above is my home screen on my iPhone using the `allGradesQR.JPG` in Widgy.</p>
+      <p>Scan the below QR code in Widgy for this widget.</p>
+      <img src="/images/allGradesQR.JPG" width="200px">
+    </td>
+  </tr>
+</table>

@@ -24,6 +24,6 @@ Scan the below QR code in widgy for this widget.
 
 Scan the below QR code in widgy for this widget.
 
-<div style="text-align: center;">
+<div align="align">
 <img src="/images/allGradesQR.JPG" width=350px>
 </div>

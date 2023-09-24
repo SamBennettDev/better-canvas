@@ -1,2 +1,2 @@
 # better-canvas
-![Example of how I use better canvas](/images/betterCanvasExample.jpg)
+<img src="/images/betterCanvasExample.jpg" width=350px>

@@ -10,7 +10,7 @@
 
 <p>Above is an example from my ipad using the assignmentsQR.JPG in widgy.</p>
 
-**Scan the below QR code in widgy for this widget.**
+Scan the below QR code in widgy for this widget.
 
 <img src="/images/assignmentsQR.JPG" width=350px>
 
@@ -19,6 +19,6 @@
 
 <p>Above is my homescreen on my iphone using the allGradesQR.JPG in widgy.</p>
 
-**Scan the below QR code in widgy for this widget.**
+Scan the below QR code in widgy for this widget.
 
 <img src="/images/allGradesQR.JPG" width=350px>

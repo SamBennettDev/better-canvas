@@ -1,34 +1,59 @@
-# better-canvas
+# Better-Canvas
 
-## Usable and customizable widgets to display course information from Canvas. Works with Widgy.
+Better-Canvas is a collection of usable and customizable widgets designed to display course information from Canvas. It is compatible with Widgy, making it easier to integrate these widgets into your educational applications.
 
-**PLEASE STAR THIS REPO**
+[![GitHub Stars](https://img.shields.io/github/stars/your-username/better-canvas?style=for-the-badge)](https://github.com/SamBennettDev/better-canvas)
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="/images/betterCanvasIpadExample.jpg">
-    </td>
-    <td align="center">
-      <img src="/images/betterCanvasExample.jpg">
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <p>Above is an example from my iPad using the `assignmentsQR.JPG` in Widgy.</p>
-      <p>Scan the below QR code in Widgy for this widget.</p>
-    </td>
-    <td align="center">
-      <p>Above is my home screen on my iPhone using the `allGradesQR.JPG` in Widgy.</p>
-      <p>Scan the below QR code in Widgy for this widget.</p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="/images/assignmentsQR.JPG" width=350px>
-    </td>
-    <td align="center">
-      <img src="/images/allGradesQR.JPG" width=350px>
-    </td>
-  </tr>
-</table>
+## Preview
+
+<div align="center">
+  <img src="/images/betterCanvasIpadExample.jpg" alt="iPad Example" width="400">
+</div>
+
+<div align="center">
+  <p>Example on an iPad using the `assignmentsQR.JPG` in Widgy.</p>
+</div>
+
+<div align="center">
+  <img src="/images/betterCanvasExample.jpg" alt="iPhone Example" width="250">
+</div>
+
+<div align="center">
+  <p>Example on an iPhone using the `allGradesQR.JPG` in Widgy.</p>
+</div>
+
+## Usage
+
+Above are examples showcasing Better-Canvas in action on different devices. You can see the possibilities it offers when used with Widgy.
+
+### iPad Example
+
+<div align="center">
+  <img src="/images/assignmentsQR.JPG" alt="Assignments QR Code" width="200">
+</div>
+
+Scan the QR code above in Widgy to use the Assignments widget on your iPad.
+
+### iPhone Example
+
+<div align="center">
+  <img src="/images/allGradesQR.JPG" alt="All Grades QR Code" width="200">
+</div>
+
+Scan the QR code above in Widgy to use the All Grades widget on your iPhone.
+
+## Getting Started
+
+To get started with Better-Canvas, follow these steps:
+
+1. Download and install Widgy on your device.
+2. [Get your Canvas API token.](#get-your-canvas-api-token)
+3. [Get your Canvas course and account numbers.](#get-your-canvas-course-and-account-numbers)
+4. [Create a Cloudflare Cors-Proxy worker.](#create-a-cloudflare-cors-proxy-worker)
+5. Scan the widget QR code inside of Widgy and fill out the information appropriately.
+
+## Get your Canvas API token
+
+## Get your Canvas course and account numbers
+
+## Create a Cloudflare Cors-Proxy worker

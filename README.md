@@ -53,7 +53,7 @@ To get started with Better-Canvas, follow these steps:
 5. Scan the widget QR code inside of Widgy and fill out the information appropriately.
 
 ## Get your Canvas API token
-
+![Get Your Canvas API Token](/images/GetCanvasAPIToken.png)
 ## Get your Canvas course and account numbers
 
 ## Create a Cloudflare Cors-Proxy worker

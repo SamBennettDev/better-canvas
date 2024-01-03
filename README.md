@@ -1,8 +1,9 @@
+![GitHub Repo stars](https://img.shields.io/github/stars/SamBennettDev/better-canvas?style=flat-square)
+<br/>
 # Better-Canvas
 
 Better-Canvas is a collection of usable and customizable widgets designed to display course information from Canvas. It is compatible with Widgy, making it easier to integrate these widgets into your educational applications.
 
-[![GitHub Stars](https://img.shields.io/github/stars/your-username/better-canvas?style=for-the-badge)](https://github.com/SamBennettDev/better-canvas)
 
 ## Preview
 

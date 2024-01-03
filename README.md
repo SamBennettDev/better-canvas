@@ -67,3 +67,6 @@ While still inside of the laptop/desktop paste <code>/api/v1/users/self</code> a
 ![url containing account number](/images/findAccountID.png)
 
 ## Create a Cloudflare Cors-Proxy worker
+- Create account at this link https://workers.cloudflare.com/
+- Paste in ![worker.js](/worker.js) from this repo
+- Deploy and copy deployed url

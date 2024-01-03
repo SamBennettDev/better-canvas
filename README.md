@@ -55,9 +55,14 @@ To get started with Better-Canvas, follow these steps:
 ## Get your Canvas API token
 https://community.canvaslms.com/t5/Student-Guide/How-do-I-manage-API-access-tokens-as-a-student/ta-p/273
 ## Get your Canvas course and account numbers
+
+Go to canvas inside of your laptop/desktop and click on one of your classes to take you to that classes homepage.
+Inside the url contains the class ID, below is an example of a class ID
 <div align="center">
   <img src="/images/findCourseNumber.png" alt="Assignments QR Code">
 </div>
+
+While still inside of the laptop/desktop paste <code>/api/v1/users/self</code> at the end of your canvas link.  Below is an example with the University of Utah canvas link.  This will return an object containing your account id.
 <div align="center">
   <img src="/images/findAccountID.png" alt="Assignments QR Code">
 </div>

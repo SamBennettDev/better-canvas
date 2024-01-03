@@ -1,4 +1,5 @@
-![GitHub Repo stars](https://img.shields.io/github/stars/SamBennettDev/better-canvas?style=flat-square) Please star this repo if you found this useful
+![GitHub Repo stars](https://img.shields.io/github/stars/SamBennettDev/better-canvas?style=flat-square)  
+Please star this repo if you found this useful
 <br/>
 # Better-Canvas
 

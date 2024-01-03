@@ -55,5 +55,11 @@ To get started with Better-Canvas, follow these steps:
 ## Get your Canvas API token
 https://community.canvaslms.com/t5/Student-Guide/How-do-I-manage-API-access-tokens-as-a-student/ta-p/273
 ## Get your Canvas course and account numbers
+<div align="center">
+  <img src="/images/findCourseNumber.png" alt="Assignments QR Code">
+</div>
+<div align="center">
+  <img src="/images/findAccountID.png" alt="Assignments QR Code">
+</div>
 
 ## Create a Cloudflare Cors-Proxy worker

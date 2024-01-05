@@ -62,11 +62,6 @@ Go to canvas inside of your laptop/desktop and click on one of your classes to t
 Inside the url contains the class ID, below is an example of a class ID
 <br/>
 ![url containing course number](/images/findCourseNumber.png)
-<br/>
-<br/>
-While still inside of the laptop/desktop paste <code>/api/v1/users/self</code> at the end of your canvas link.  Below is an example with the University of Utah canvas link.  This will return an object containing your account id.
-<br/>
-![url containing account number](/images/findAccountID.png)
 
 ## Create a Cloudflare Cors-Proxy worker
 - Create account at this link https://workers.cloudflare.com/

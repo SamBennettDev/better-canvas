@@ -41,8 +41,8 @@ Scan the QR code above in Widgy to use the Assignments widget on your iPad.
 <div align="center">
   <img src="/images/allGradesQR.jpg" alt="All Grades QR Code" width="200">
 </div>
-
-Scan the QR code above in Widgy to use the All Grades widget on your iPhone.
+widgyURL://widgy.icu/api/v1/widgy/9b05f2fc-14aa-40e9-a9e9-1134dc1589ef
+Scan the QR code in Widgy or click the link to use the All Grades widget on your iPhone.
 
 ## Getting Started
 
